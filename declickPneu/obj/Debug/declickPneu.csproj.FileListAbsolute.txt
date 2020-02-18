@@ -1,0 +1,11 @@
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\obj\Debug\declickPneu.csprojAssemblyReference.cache
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\obj\Debug\declickPneu.Form2.resources
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\obj\Debug\declickPneu.Properties.Resources.resources
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\obj\Debug\declickPneu.csproj.GenerateResource.cache
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\bin\Debug\AppData\Database1.mdf
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\bin\Debug\AppData\Database1_log.ldf
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\bin\Debug\declickPneu.exe.config
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\bin\Debug\declickPneu.exe
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\bin\Debug\declickPneu.pdb
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\obj\Debug\declickPneu.exe
+C:\Users\Tarik\source\repos\declickPneu\declickPneu\obj\Debug\declickPneu.pdb
